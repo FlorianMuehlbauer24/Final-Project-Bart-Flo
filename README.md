@@ -1,5 +1,5 @@
 Final Project: Optimising hotel occupancy with machine learning and classic business analysis. 
-(Hotel Booking/Cancellation Prediction & Customer Segmentation)
+(by looking at hotel booking and cancellation, creating predictions & segmenting customers and understanding booking patterns)
 
 Data Analysts: Bartek and Florian
 
