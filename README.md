@@ -3,7 +3,6 @@ Final Project: Hotel Booking/Cancellation Prediction & Customer Segmentation
 Data Analysts: Bartek and Florian
 
 Dataset: Hotels Booking Data
-https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version
 
 Source: Kaggle, Link to Dataset: https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version
 Rows: 120k
