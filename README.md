@@ -1,9 +1,9 @@
-Final Project: Hotel Booking/Cancellation Prediction & Customer Segmentation
+Final Project: Optimising hotel occupancy with machine learning and classic business analysis. 
+(by looking at hotel booking and cancellation, creating predictions & segmenting customers and understanding booking patterns)
 
 Data Analysts: Bartek and Florian
 
 Dataset: Hotels Booking Data
-https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version
 
 Source: Kaggle, Link to Dataset: https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version
 Rows: 120k
