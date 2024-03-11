@@ -26,20 +26,16 @@ Root cause analysis for cancellations and optimization of the booking strategy
  
 Machine learning
 
-Prediction of last-minute bookings (linear regression)
-The company wants to understand the demand for last-minute bookings to promote these bookings and increase capacity utilization.
 Segmentation of the customer base (classification)
 Leverage data-driven solutions to reduce cancellations and enhance profitability
-Behavioral segmentation: understand which customer groups are most likely to cancellations (customer cancellation behavior)
-Develop targeted customer retention and experience strategies to reduce cancellation rates. implement preventive measures
-
+Behavioural segmentation: understand cancellation behaviour split per type 
 
 ---------
 
-Time line: 
+Timeline: 
 
 Week 1: 
-Business Analysis & Visualisation in Tableau
+Business Analysis in Python and BigQuery & Visualisation in Tableau
 
 Week 2: 
-ML Model creation (Linear Regression + Classification)
+ML Model creation (Classification)
